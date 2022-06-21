@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @jhbigler
-- 👀 I’m interested in Python, Ruby, and security analytics and DevOps
+- 🎓 B.S. Computer Science (Minor in Statistics) California State University, Sacramento.
+- 🎓 M.C.S. Arizona State University
+- 👀 I’m interested in Python, Ruby, security analytics, and DevOps
 - 🌱 I’m currently learning Kubernetes, Kafka, and Rust
 - 💞️ I’m looking to collaborate on open source software, preferably in Python, Ruby, or with Kafka
 - 📫 How to reach me: jhbigler@gmail.com
